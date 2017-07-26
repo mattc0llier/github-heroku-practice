@@ -28,8 +28,8 @@ canvas {
 
 #particles-js img {
     position: absolute;
-    top: 400px;
-    left: 400px;
+    top: 350px;
+    left: 350px;
 
     max-width:540px;
     height: auto;
