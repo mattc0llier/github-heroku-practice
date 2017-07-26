@@ -48,7 +48,7 @@ canvas {
   color:  #fff;
   font-size: 20px;
   font-weight: 500;
-  line-height: 0.7
+  line-height: 0.7;
   transition: opacity .8s;
 }
 
